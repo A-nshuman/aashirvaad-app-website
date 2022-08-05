@@ -1,0 +1,440 @@
+-----features-----
+    <!-- Features -->
+    <div id="features" class="tabs">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h2>FEATURES</h2>
+                    <div class="p-heading p-large">Safe Bank was designed for users to easily perform basic bank tasks using one app.</div>
+                </div> <!-- end of col -->
+            </div> <!-- end of row -->
+            <div class="row">
+
+                <!-- Tabs Links -->
+                <ul class="nav nav-tabs" id="lenoTabs" role="tablist">
+                    <li class="nav-item">
+                        <a class="nav-link active" id="nav-tab-1" data-toggle="tab" href="#tab-1" role="tab" aria-controls="tab-1" aria-selected="true"><i class="fas fa-coins"></i>DEPOSIT</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" id="nav-tab-2" data-toggle="tab" href="#tab-2" role="tab" aria-controls="tab-2" aria-selected="false"><i class="fas fa-money-bill"></i>TRANSFER</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" id="nav-tab-3" data-toggle="tab" href="#tab-3" role="tab" aria-controls="tab-3" aria-selected="false"><i class="fas fa-credit-card"></i>VIRTUAL CARD</a>
+                    </li>
+                </ul>
+                <!-- end of tabs links -->
+
+
+                <!-- Tabs Content-->
+                <div class="tab-content" id="lenoTabsContent">
+                    
+                    <!-- Tab -->
+                    <div class="tab-pane fade show active" id="tab-1" role="tabpanel" aria-labelledby="tab-1">
+                        <div class="container">
+                            <div class="row">
+                                
+                                <!-- Icon Cards Pane -->
+                                <div class="col-lg-4">
+                                    <div class="card left-pane first">
+                                        <div class="card-body">
+                                            <div class="text-wrapper">
+                                                <h4 class="card-title">Goal Setting</h4>
+                                                <p>Like any self improving process, everything starts with setting your goals and committing to them</p>
+                                            </div>
+                                            <div class="card-icon">
+                                                <i class="far fa-compass"></i>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="card left-pane">
+                                        <div class="card-body">
+                                            <div class="text-wrapper">
+                                                <h4 class="card-title">Visual Editor</h4>
+                                                <p>Leno provides a well designed and ergonomic visual editor for you to edit your notes and input data</p>
+                                            </div>
+                                            <div class="card-icon">
+                                                <i class="far fa-file-code"></i>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="card left-pane">
+                                        <div class="card-body">
+                                            <div class="text-wrapper">
+                                                <h4 class="card-title">Refined Options</h4>
+                                                <p>Each option packaged in the app's menus is provided in order to improve your personal development status</p>
+                                            </div>
+                                            <div class="card-icon">
+                                                <i class="far fa-gem"></i>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- end of icon cards pane -->
+
+                                <!-- Image Pane -->
+                                <div class="col-lg-4">
+                                    <img class="img-fluid" src="images/deposit_crp.png" alt="alternative">
+                                </div>
+                                <!-- end of image pane -->
+                                
+                                <!-- Icon Cards Pane -->
+                                <div class="col-lg-4">
+                                    <div class="card right-pane first">
+                                        <div class="card-body">
+                                            <div class="card-icon">
+                                                <i class="far fa-calendar-check"></i>
+                                            </div>
+                                            <div class="text-wrapper">
+                                                <h4 class="card-title">Calendar Input</h4>
+                                                <p>Schedule your appointments, meetings and periodical evaluations using the provided in-app calendar option</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="card right-pane">
+                                        <div class="card-body">
+                                            <div class="card-icon">
+                                                <i class="far fa-bookmark"></i>
+                                            </div>
+                                            <div class="text-wrapper">
+                                                <h4 class="card-title">Easy Reading</h4>
+                                                <p>Reading focus mode for long form articles, ebooks and other materials which involve large text areas</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="card right-pane">
+                                        <div class="card-body">
+                                            <div class="card-icon">
+                                                <i class="fas fa-cube"></i>
+                                            </div>
+                                            <div class="text-wrapper">
+                                                <h4 class="card-title">Good Foundation</h4>
+                                                <p>Get a solid foundation for your self development efforts. Try Leno mobile app for any mobile platform</p>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- end of icon cards pane -->
+
+                            </div> <!-- end of row -->
+                        </div> <!-- end of container -->
+                    </div> <!-- end of tab-pane -->
+                    <!-- end of tab -->
+
+                    <!-- Tab -->
+                    <div class="tab-pane fade" id="tab-2" role="tabpanel" aria-labelledby="tab-2">
+                        <div class="container">
+                            <div class="row">
+
+                                <!-- Image Pane -->
+                                <div class="col-md-4">
+                                    <img class="img-fluid" src="images/tran_crp.png" alt="alternative">
+                                </div>
+                                <!-- end of image pane -->
+                                
+                                <!-- Text And Icon Cards Area -->
+                                <div class="col-md-8">
+                                    <div class="text-area">
+                                        <h3>Transfer Money</h3>
+                                        <p>You can easily transfer money form your account to another account using email.</p>
+                                    </div> <!-- end of text-area -->
+                                    
+                                    <div class="icon-cards-area">
+                                            <div class="card">
+                                                <div class="card-icon">
+                                                    <i class="fas fa-cube"></i>
+                                                </div>
+                                                <div class="card-body">
+                                                    <h4 class="card-title">Email</h4>
+                                                    <p>Enter the reciever's email address. Verify the reciever's email address to be sure who gets the money.</p>
+                                                </div>
+                                            </div>
+                                            <div class="card">
+                                                <div class="card-icon">
+                                                    <i class="far fa-bookmark"></i>
+                                                </div>
+                                                <div class="card-body">
+                                                    <h4 class="card-title">Amount</h4>
+                                                    <p>Enter the amount to be transfered. Make sure the amonut is not greater than your current balance. If amount is greater than your current balance, you will get an error.</p>
+                                                </div>
+                                            </div>
+                                            <div class="card">
+                                                <div class="card-icon">
+                                                    <i class="far fa-calendar-check"></i>
+                                                </div>
+                                                <div class="card-body">
+                                                    <h4 class="card-title">Password</h4>
+                                                    <p>Enter your account's password. Make sure to enter the correct password.</p>
+                                                </div>
+                                            </div>
+                                            <!-- <div class="card">
+                                                <div class="card-icon">
+                                                    <i class="far fa-file-code"></i>
+                                                </div>
+                                                <div class="card-body">
+                                                    <h4 class="card-title">Visual Editor</h4>
+                                                    <p>Leno provides a well designed and ergonomic visual editor for you to edit your notes and input data</p>
+                                                </div>
+                                            </div> -->
+                                    </div> <!-- end of icon cards area -->
+                                </div> <!-- end of col-md-8 -->
+                                <!-- end of text and icon cards area -->
+
+                            </div> <!-- end of row -->
+                        </div> <!-- end of container -->
+                    </div> <!-- end of tab-pane -->
+                    <!-- end of tab -->
+
+                    <!-- Tab -->
+                    <div class="tab-pane fade" id="tab-3" role="tabpanel" aria-labelledby="tab-3">
+                        <div class="container">
+                            <div class="row">
+
+                                <!-- Text And Icon Cards Area -->
+                                <div class="col-md-8">
+                                    <div class="text-area">
+                                        <h3>Virtual Card</h3>
+                                        <p>Create an account in our app to instantly get a virtual credit card. This card is usable in every country.</p>
+                                    </div> <!-- end of text-area -->
+                                    <div class="icon-cards-area">
+                                        <div class="card">
+                                            <div class="card-icon">
+                                                <i class="far fa-credit-card"></i>
+                                            </div>
+                                            <div class="card-body">
+                                                <h4 class="card-title">Card Number</h4>
+                                                <p>Your virtual card will have a unique card number.</p>
+                                            </div>
+                                        </div>
+                                        <div class="card">
+                                            <div class="card-icon">
+                                                <i class="far fa-file-code"></i>
+                                            </div>
+                                            <div class="card-body">
+                                                <h4 class="card-title">Visual Editor</h4>
+                                                <p>Leno provides a well designed and ergonomic visual editor for you to edit your notes and input data</p>
+                                            </div>
+                                        </div>
+                                        <div class="card">
+                                            <div class="card-icon">
+                                                <i class="fas fa-cube"></i>
+                                            </div>
+                                            <div class="card-body">
+                                                <h4 class="card-title">Good Foundation</h4>
+                                                <p>Get a solid foundation for your self development efforts. Try Leno mobile app for any mobile platform</p>
+                                            </div>
+                                        </div>
+                                        <div class="card">
+                                            <div class="card-icon">
+                                                <i class="far fa-bookmark"></i>
+                                            </div>
+                                            <div class="card-body">
+                                                <h4 class="card-title">Easy Reading</h4>
+                                                <p>Reading focus mode for long form articles, ebooks and other materials which involve large text areas</p>
+                                            </div>
+                                        </div>
+                                    </div> <!-- end of icon cards area -->
+                                    
+                                    
+                                </div> <!-- end of col-md-8 -->
+                                <!-- end of text and icon cards area -->
+
+                                <!-- Image Pane -->
+                                <div class="col-md-4">
+                                    <img class="img-fluid" src="images/cardvir_crp.png" alt="alternative">
+                                </div>
+                                <!-- end of image pane -->
+                                    
+                            </div> <!-- end of row -->
+                        </div> <!-- end of container -->
+                    </div><!-- end of tab-pane -->
+                    <!-- end of tab -->
+
+                </div> <!-- end of tab-content -->
+                <!-- end of tabs content -->
+
+            </div> <!-- end of row --> 
+        </div> <!-- end of container --> 
+    </div> <!-- end of tabs -->
+    <!-- end of features -->
+
+-----video-----
+    <!-- Video -->
+    <div id="preview" class="basic-1">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h2>PREVIEW</h2>
+                    <div class="p-heading p-large">Target the right customers for your business with the help of Leno's patented segmentation technology</div>
+                </div> <!-- end of col -->
+            </div> <!-- end of row -->
+            <div class="row">
+                <div class="col-lg-12">
+
+                    <!-- Video Preview -->
+                    <div class="image-container">
+                        <div class="video-wrapper">
+                            <a class="popup-youtube" href="https://www.youtube.com/watch?v=fLCjQJCekTs" data-effect="fadeIn">
+                                <img class="img-fluid" src="images/video-frame.jpg" alt="alternative">
+                                <span class="video-play-button">
+                                    <span></span>
+                                </span>
+                            </a>
+                        </div> <!-- end of video-wrapper -->
+                    </div> <!-- end of image-container -->
+                    <!-- end of video preview -->
+
+                </div> <!-- end of col -->
+            </div> <!-- end of row -->
+        </div> <!-- end of container -->
+    </div> <!-- end of basic-1 -->
+    <!-- end of video -->
+
+-----details-----
+    <!-- Details 1 -->
+    <div id="details" class="basic-2">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6">
+                    <img class="img-fluid" src="images/details-1-iphone.png" alt="alternative">
+                </div> <!-- end of col -->
+                <div class="col-lg-6">
+                    <div class="text-container">
+                        <h3>Goals Setting</h3>
+                        <p>Leno can easily help you track your personal development evolution if you take the time to properly setup your goals at the beginning of the training process. Check out the details</p>
+                        <a class="btn-solid-reg popup-with-move-anim" href="#details-lightbox-1">LIGHTBOX</a>
+                    </div> <!-- end of text-container -->
+                </div> <!-- end of col -->
+            </div> <!-- end of row -->
+        </div> <!-- end of container -->
+    </div> <!-- end of basic-2 -->
+    <!-- end of details 1 -->
+
+
+    <!-- Details 2 -->
+    <div class="basic-3">
+        <div class="second">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-6">
+                        <div class="text-container">
+                            <h3>Calendar Input</h3>
+                            <p>The calendar input function enables the user to setup training, meditation and relaxation sessions with ease. Just open the feature and start setting up your time as you desire</p>
+                            <a class="btn-solid-reg popup-with-move-anim" href="#details-lightbox-2">LIGHTBOX</a>
+                        </div> <!-- end of text-container -->
+                    </div> <!-- end of col -->
+                    <div class="col-lg-6">
+                        <img class="img-fluid" src="images/details-2-iphone.png" alt="alternative">
+                    </div> <!-- end of col -->
+                </div> <!-- end of row -->
+            </div> <!-- end of container -->
+        </div> <!-- end of second -->
+    </div> <!-- end of basic-3 -->    
+    <!-- end of details 2 -->
+
+
+    <!-- Details Lightboxes -->
+	<!-- Lightbox -->
+	<div id="details-lightbox-1" class="lightbox-basic zoom-anim-dialog mfp-hide">
+		<div class="row">
+			<button title="Close (Esc)" type="button" class="mfp-close x-button">×</button>
+			<div class="col-lg-6">
+				<img class="img-fluid" src="images/details-lightbox-1.png" alt="alternative">
+			</div>
+			<div class="col-lg-6">
+				<h3>Goals Setting</h3>
+				<hr>
+                <p>Leno can easily help you track your personal development evolution if you take the time to set it up.</p>
+                <h4>User Feedback</h4>
+                <p>This is a great app which can help you save time and make your live easier. And it will help improve your productivity levels.</p>
+                <p>You should definitely give it a try when you need a good app.</p>
+				<table>
+					<tr><td class="icon-cell"><i class="fas fa-desktop"></i></td><td>Responsive layout</td></tr>
+					<tr><td class="icon-cell"><i class="fas fa-bullhorn"></i></td><td>Distinctive CTAs</td></tr>
+					<tr><td class="icon-cell"><i class="fas fa-image"></i></td><td>Image gallery slider</td></tr>
+					<tr><td class="icon-cell"><i class="fas fa-envelope"></i></td><td>Contact forms</td></tr>
+					<tr><td class="icon-cell"><i class="fab fa-font-awesome-flag"></i></td><td>FontAwesome icons</td></tr>
+					<tr><td class="icon-cell"><i class="fas fa-code"></i></td><td>Well-structured code</td></tr>
+				</table>
+				<a class="btn-solid-reg" href="#your-link">DETAILS</a> <a class="btn-outline-reg mfp-close as-button" href="#details">BACK</a> 
+			</div>
+		</div> <!-- end of row -->
+    </div> <!-- end of lightbox-basic -->
+    <!-- end of lightbox -->
+    
+    <!-- Lightbox -->
+    <div id="details-lightbox-2" class="lightbox-basic zoom-anim-dialog mfp-hide">
+		<div class="row">
+			<button title="Close (Esc)" type="button" class="mfp-close x-button">×</button>
+			<div class="col-lg-6">
+				<img class="img-fluid" src="images/details-lightbox-2.png" alt="alternative">
+			</div>
+			<div class="col-lg-6">
+				<h3>Calendar Input</h3>
+				<hr>
+                <p>The calendar input function enables the user to setup training, meditation and relaxation sessions with ease.</p>
+                <h4>User Feedback</h4>
+                <p>This is a great app which can help you save time and make your live easier. And it will help improve your productivity levels.</p>
+                <p>You should definitely give it a try when you need a good app.</p>
+				<table>
+					<tr><td class="icon-cell"><i class="fas fa-desktop"></i></td><td>Responsive layout</td></tr>
+					<tr><td class="icon-cell"><i class="fas fa-bullhorn"></i></td><td>Distinctive CTAs</td></tr>
+					<tr><td class="icon-cell"><i class="fas fa-image"></i></td><td>Image gallery slider</td></tr>
+					<tr><td class="icon-cell"><i class="fas fa-envelope"></i></td><td>Contact forms</td></tr>
+					<tr><td class="icon-cell"><i class="fab fa-font-awesome-flag"></i></td><td>FontAwesome icons</td></tr>
+					<tr><td class="icon-cell"><i class="fas fa-code"></i></td><td>Well-structured code</td></tr>
+				</table>
+				<a class="btn-solid-reg" href="#your-link">DETAILS</a> <a class="btn-outline-reg mfp-close as-button" href="#details">BACK</a>
+			</div>
+		</div> <!-- end of row -->
+    </div> <!-- end of lightbox-basic -->
+    <!-- end of lightbox -->
+    <!-- end of details lightboxes -->
+
+-----Download-----
+<!-- Download -->
+    <div class="basic-4">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-6 col-xl-5">
+                    <div class="text-container">
+                        <h2>Download <span class="blue">Leno</span></h2>
+                        <p class="p-large">Target the right customers for your business with the help of Leno's patented technology and increase conversion figures in less than 2 weeks</p>
+                        <a class="btn-solid-lg" href="#your-link"><i class="fab fa-apple"></i>APP STORE</a>
+                        <a class="btn-solid-lg" href="#your-link"><i class="fab fa-google-play"></i>PLAY STORE</a>
+                    </div> <!-- end of text-container -->
+                </div> <!-- end of col -->
+                <div class="col-lg-6 col-xl-7">
+                    <div class="image-container">
+                        <img class="img-fluid" src="images/download.png" alt="alternative">
+                    </div> <!-- end of img-container -->
+                </div> <!-- end of col -->
+            </div> <!-- end of row -->
+        </div> <!-- end of container -->
+    </div> <!-- end of basic-4 -->
+    <!-- end of download -->
+
+-----Dropdown----
+<!-- Dropdown Menu -->          
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle page-scroll" href="#details" id="navbarDropdown" role="button" aria-haspopup="true" aria-expanded="false">DETAILS</a>
+                    <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                        <a class="dropdown-item" href="terms-conditions.html"><span class="item-text">TERMS CONDITIONS</span></a>
+                        <div class="dropdown-items-divide-hr"></div>
+                        <a class="dropdown-item" href="privacy-policy.html"><span class="item-text">PRIVACY POLICY</span></a>
+                    </div>
+                </li>
+                <!-- end of dropdown menu -->
+
+-----Rotating Text JS-----
+/* Rotating Text - Morphtext */
+	$("#js-rotating").Morphext({
+		// The [in] animation type. Refer to Animate.css for a list of available animations.
+		animation: "fadeIn",
+		// An array of phrases to rotate are created based on this separator. Change it if you wish to separate the phrases differently (e.g. So Simple | Very Doge | Much Wow | Such Cool).
+		separator: ",",
+		// The delay between the changing of each phrase in milliseconds.
+		speed: 2000,
+		complete: function () {
+			// Called after the entrance animation is executed.
+		}
+    });
